@@ -34,5 +34,7 @@ Saya seorang pengembang yang memiliki minat mendalam pada pengembangan server Mi
 - KrepzzMC
 
 ## Hubungi Saya
-Saya selalu terbuka untuk kolaborasi dan diskusi tentang Minecraft atau AI. Jangan ragu untuk menghubungi saya!
 Discord: adris#8135
+Email: unfairlyris@deluzemc.com
+
+Saya selalu terbuka untuk kolaborasi dan diskusi tentang Minecraft atau AI. Jangan ragu untuk menghubungi saya!
