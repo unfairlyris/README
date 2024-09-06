@@ -1,4 +1,4 @@
-# Halo, Saya unfairlyris! 👋
+# Halo, Saya adris! 👋
 
 Saya seorang pengembang yang memiliki minat mendalam pada pengembangan server Minecraft dan kecerdasan buatan (AI).
 
@@ -34,7 +34,7 @@ Saya seorang pengembang yang memiliki minat mendalam pada pengembangan server Mi
 - KrepzzMC
 
 ## Hubungi Saya
-Discord: adris#8135
-Email: unfairlyris@deluzemc.com
+Discord: [Nekosphere](https://dsc.gg/nekosphere)
+Email: adris@nekosphere.cloud
 
 Saya selalu terbuka untuk kolaborasi dan diskusi tentang Minecraft atau AI. Jangan ragu untuk menghubungi saya!
