@@ -4,20 +4,20 @@ Saya seorang pengembang yang memiliki minat mendalam pada pengembangan server Mi
 
 ## Tentang Saya
 
-- 🎮 Pengembang server Minecraft berpengalaman
-- 🤖 Antusias AI dan machine learning
-- 💻 Selalu bersemangat untuk belajar teknologi baru
+- Pengembang server Minecraft berpengalaman
+- Sangat menyukai AI dan machine learning
+- Suka mengenai game
 
 ## Minat dan Keahlian
 
 ### Minecraft Server Development
 - Pengoptimalan performa server
-- Pengembangan plugin kustom
-- Manajemen dan konfigurasi server
+- Pengembangan plugin
+- Manajemen dan konfigurasi plugin server
 
 ### Artificial Intelligence
 - Pengembangan chatbot
-- Pengolahan bahasa alami (NLP)
+- Pengembangan AI text to image
 - Pembelajaran mesin untuk game
 
 ## Proyek
@@ -35,6 +35,6 @@ Saya seorang pengembang yang memiliki minat mendalam pada pengembangan server Mi
 
 ## Hubungi Saya
 Discord: [Nekosphere](https://dsc.gg/nekosphere)
-Email: adris@nekosphere.cloud
+Email: [Email](adris@nekosphere.cloud)
 
 Saya selalu terbuka untuk kolaborasi dan diskusi tentang Minecraft atau AI. Jangan ragu untuk menghubungi saya!
