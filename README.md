@@ -32,6 +32,8 @@ Saya seorang pengembang yang memiliki minat mendalam pada pengembangan server Mi
 - DeluzeMC
 - FarCraft
 - KrepzzMC
+- HavenSMP
+- Nekosphere Cloud
 
 ## Hubungi Saya
 Discord: [Nekosphere](https://dsc.gg/nekosphere)
