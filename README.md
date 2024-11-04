@@ -1,5 +1,7 @@
 # Halo, Saya adris! 👋
 
+![1cc1d0d4aad11de649b0ddb28b97ef6e](https://github.com/user-attachments/assets/ad196241-d1ab-4ff7-84a7-0ae385c4f7cc)
+
 Saya seorang pengembang yang memiliki minat mendalam pada pengembangan server Minecraft dan kecerdasan buatan (AI).
 
 ## Tentang Saya
