@@ -38,7 +38,7 @@ Saya seorang pengembang yang memiliki minat mendalam pada pengembangan server Mi
 - Nekosphere Cloud
 
 ## Hubungi Saya
-Discord: [Nekosphere](https://dsc.gg/nekosphere)
+Discord: [unfairlyris](https://discord.com/users/757016212734607410)
 Email: [Email](adris@nekosphere.cloud)
 
 Saya selalu terbuka untuk kolaborasi dan diskusi tentang Minecraft atau AI. Jangan ragu untuk menghubungi saya!
