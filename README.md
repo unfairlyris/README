@@ -39,6 +39,6 @@ Saya seorang pengembang yang memiliki minat mendalam pada pengembangan server Mi
 
 ## Hubungi Saya
 Discord: [unfairlyris](https://discord.com/users/757016212734607410)
-Email: [Email](adris@nekosphere.cloud)
+Email: [Email](adriscently@gmail.com)
 
 Saya selalu terbuka untuk kolaborasi dan diskusi tentang Minecraft atau AI. Jangan ragu untuk menghubungi saya!
